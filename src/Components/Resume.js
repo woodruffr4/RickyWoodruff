@@ -28,7 +28,7 @@ class Resume extends Component {
     return (
       <section id="resume">
 
-      <div className="row education">
+      <div className="myhidden row education">
          <div className="three columns header-col">
             <h1><span>Education</span></h1>
          </div>
@@ -43,7 +43,7 @@ class Resume extends Component {
       </div>
 
 
-      <div className="row work">
+      <div className="myhidden row work">
 
          <div className="three columns header-col">
             <h1><span>Work</span></h1>
@@ -56,7 +56,7 @@ class Resume extends Component {
 
 
 
-      <div className="row skill">
+      <div className="myhidden row skill">
 
          <div className="three columns header-col">
             <h1><span>Skills</span></h1>

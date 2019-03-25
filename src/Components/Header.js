@@ -14,7 +14,7 @@ class Header extends Component {
     }
 
     return (
-      <header id="home">
+      <header className="myhidden" id="home">
 
       <nav id="nav-wrap">
 
