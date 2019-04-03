@@ -35,7 +35,7 @@
     ]
   },
   "resume":{
-    "skillmessage":"Knowledge:",
+    "skillmessage":"",
     "education":[
       {
         "school":"University of Florida",
@@ -74,7 +74,7 @@
         "level":"40%"
       },
       {
-        "name":"React JS",
+        "name":"ReactJS",
         "level":"20%"
       }
     ]

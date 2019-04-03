@@ -2,7 +2,7 @@
   "main": {
     "name":"Ricky Woodruff",
     "occupation":"Student",
-    "description":"Competitive Programmer  -  App Developer  -  Bukkit Plugin Developer",
+    "description":"Competitive Programmer  -  iPhone App Developer  -  Bukkit Plugin Developer",
     "image":"profilepic.jpeg",
     "bio":"First-year Computer Science student at the University of Florida. Designed and developed the iPhone App for Trinity Preparatory School. Interested in Software development and Artificial Intelligence.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
@@ -19,7 +19,7 @@
     "social":[
       {
         "name":"instagram",
-        "url":"http://instagram.com/rickywoodrufff",
+        "url":"https://instagram.com/rickywoodrufff",
         "className":"fa fa-instagram"
       },
       {
@@ -29,7 +29,7 @@
       },
       {
         "name":"github",
-        "url":"http://github.com/woodruffr4",
+        "url":"https://github.com/woodruffr4",
         "className":"fa fa-github"
       }
     ]
@@ -53,7 +53,7 @@
         "description2":"Configured a Raspberry Pi computer to work as the central operating system of a reconnaissance drone for the U.S. Military"
       },
       {
-        "company":"Design Interactive Inc.",
+        "company":"Design Interactive Inc. ",
         "title":"Software Engineer Intern",
         "years":"December 2016 - January 2017",
         "description":"Engineered the initial prototype for a military reconnaissance drone",
@@ -76,6 +76,22 @@
       {
         "name":"ReactJS",
         "level":"20%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Trinity Prep iPhone App",
+        "category":"Mobile App for Trinity Preparatory School students",
+        "image":"Trinity2.png",
+        "url":"https://itunes.apple.com/us/app/trinity-prep-student/id1145442014?mt=8"
+      },
+      {
+        "title":"Bukkit Plugin Development",
+        "category":"Plugins I developed for Minecraft server owners",
+        "image":"Bukkit.png",
+        "url":"http://github.com/woodruffr4/bukkit-plugins"
       }
     ]
   }
