@@ -69,8 +69,8 @@
         "company":"Design Interactive Inc.",
         "title":"Software Engineer Intern",
         "years":"June 2017 - July 2017",
-        "description":"Enhanced an iOS project in Swift dedicated to improving users’ mental acuity",
-        "description2":"Configured a Raspberry Pi computer to work as the central operating system of a reconnaissance drone for the U.S. Military"
+        "description":"Configured a Raspberry Pi to work as the central operating system of a reconnaissance drone for the U.S. Military and collaborated with other engineers to transmit a low-latency video feed to the Microsoft HoloLens",
+        "description2":"Enhanced an iOS project in Swift dedicated to improving users’ mental acuity"
       },
       {
         "company":"Design Interactive Inc. ",
