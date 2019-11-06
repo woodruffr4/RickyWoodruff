@@ -4,7 +4,7 @@
     "occupation":"Student",
     "description":"Competitive Programmer - iPhone App Developer - Bukkit Plugin Developer",
     "image":"profilepic.jpeg",
-    "bio":"Hello! My name is Ricky Woodruff, and I am a sophomore Computer Science student at the University of Texas at Austin. Over the summer, I had the opportunity of taking classes at Stanford University where I was able to get an introduction to Artificial Intelligence, learn about responsive Client-Side Web Development, and gain insight into Silicon Valley's entrepreneurial realm. I am super passionate about Computer Science, and I am currently looking for a Software Engineering internship for Summer 2020!",
+    "bio":"Hello! My name is Ricky Woodruff, and I am a sophomore Computer Science student at the University of Texas at Austin. Over the summer, I had the opportunity of taking classes at Stanford University where I was able to get an introduction to Artificial Intelligence, learn about responsive Client-Side Web Development, and gain insight into Silicon Valley's entrepreneurial realm.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "woodruffr4@gmail.com",
     "phone": "407-462-0151",
@@ -24,7 +24,7 @@
       },
       {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/richard-w-874bb9133/",
+        "url":"https://www.linkedin.com/in/rickywoodruff",
         "className":"fa fa-linkedin"
       },
       {
