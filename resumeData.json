@@ -19,12 +19,12 @@
     "social":[
       {
         "name":"instagram",
-        "url":"https://instagram.com/rickywoodrufff",
+        "url":"https://instagram.com/ricky.woodruff",
         "className":"fa fa-instagram"
       },
       {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/rickywoodruff",
+        "url":"https://www.linkedin.com/in/rickywoodruff/",
         "className":"fa fa-linkedin"
       },
       {
@@ -41,7 +41,7 @@
         "school":"University of Texas at Austin",
         "degree":"B.S. Computer Science",
         "graduated":"August 2019 - May 2022",
-        "description":"Undergraduate Computer Science major with a specialization in Artificial Intelligence, Big Data, and Machine Learning"
+        "description":"Undergraduate Computer Science major"
       },
       {
         "school":"Stanford University",
@@ -58,7 +58,18 @@
     ],
     "work":[
       {
-
+        "company":"Lyft",
+        "title":"Software Engineering Intern",
+        "years":"May 2020 - August 2020",
+        "description":"Beginning May 2020"
+      },
+      {
+        "company":"Stripe",
+        "title":"Software Engineering Intern",
+        "years":"January 2020 - April 2020",
+        "description":"Beginning January 2020"
+      },
+      {
         "company":"Code Sleep Repeat",
         "title":"iOS Development Instructor",
         "years":"July 2019 - August 2019",
@@ -68,16 +79,9 @@
       {
         "company":"Design Interactive Inc.",
         "title":"Software Engineer Intern",
-        "years":"June 2017 - July 2017",
+        "years":"December 2016 - January 2017, June 2017 - July 2017",
         "description":"Configured a Raspberry Pi to work as the central operating system of a reconnaissance drone for the U.S. Military and collaborated with other engineers to transmit a low-latency video feed to the Microsoft HoloLens",
-        "description2":"Enhanced an iOS project in Swift dedicated to improving users’ mental acuity"
-      },
-      {
-        "company":"Design Interactive Inc. ",
-        "title":"Software Engineer Intern",
-        "years":"December 2016 - January 2017",
-        "description":"Engineered the initial prototype for a military reconnaissance drone",
-        "description2":"Audited a TSA “pat-down suit” by debugging Intel Edison board data packets with Wireshark"
+        "description2":"Enhanced an iOS project in Swift dedicated to improving users’ mental acuity and audited a TSA “pat-down suit” by debugging Intel Edison board data packets with Wireshark"
       }
     ],
     "skills":[
