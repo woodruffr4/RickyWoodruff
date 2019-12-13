@@ -358,6 +358,10 @@
       font: 14px/1.9em 'librebaskerville-regular', sans-serif;
       width: 90%;
    }
+
+   #resume .sectionAttribute img {display: none;}
+   #resume .sectionAttribute {display: inline;}
+   #resume .infoAttribute {margin-left: 0px;}
   
    /* header social links */
    header .social { font-size: 20px;}
