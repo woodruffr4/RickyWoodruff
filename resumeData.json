@@ -41,19 +41,22 @@
         "school":"University of Texas at Austin",
         "degree":"B.S. Computer Science",
         "graduated":"August 2019 - May 2022",
-        "description":"Undergraduate Computer Science major"
+        "description":"Undergraduate Computer Science major",
+        "logo":"images/UTLogo.png"
       },
       {
         "school":"Stanford University",
         "degree":"Artificial Intelligence",
         "graduated":"Summer 2019",
-        "description":"Completed coursework in Artificial Intelligence, Entrepreneurship, and Web Development"
+        "description":"Completed coursework in Artificial Intelligence, Entrepreneurship, and Web Development",
+        "logo":"images/StanfordLogo.png"
       },
       {
         "school":"University of Florida",
         "degree":"Computer Science",
         "graduated":"August 2018 - May 2019",
-        "description":""
+        "description":"",
+        "logo":"images/UFLogo.png"
       }
     ],
     "work":[
@@ -61,27 +64,31 @@
         "company":"Lyft",
         "title":"Software Engineering Intern",
         "years":"Summer 2020",
-        "description":"Beginning May 2020"
+        "description":"Beginning May 2020",
+        "logo":"images/LyftLogo.png"
       },
       {
         "company":"Stripe",
         "title":"Software Engineering Intern",
         "years":"Winter 2020",
-        "description":"Beginning January 2020"
+        "description":"Beginning January 2020",
+        "logo":"images/StripeLogo.png"
       },
       {
         "company":"Code Sleep Repeat",
         "title":"iOS Development Instructor",
         "years":"Summer 2019",
         "description":"Guided 36 middle school and high school students through the basics of full stack native iOS development by developing 3 iOS applications at Facebook and Stanford University campuses",
-        "description2":"Utilized resources such as Google’s Firebase to develop the final social media application"
+        "description2":"Utilized resources such as Google’s Firebase to develop the final social media application",
+        "logo":"images/CSRLogo.png"
       },
       {
         "company":"Design Interactive Inc.",
-        "title":"Software Engineer Intern",
+        "title":"Software Engineering Intern",
         "years":"Winter 2017, Summer 2017",
         "description":"Configured a Raspberry Pi to work as the central operating system of a reconnaissance drone for the U.S. Military and collaborated with other engineers to transmit a low-latency video feed to the Microsoft HoloLens",
-        "description2":"Enhanced an iOS project in Swift dedicated to improving users’ mental acuity and audited a TSA “pat-down suit” by debugging Intel Edison board data packets with Wireshark"
+        "description2":"Enhanced an iOS project in Swift dedicated to improving users’ mental acuity and audited a TSA “pat-down suit” by debugging Intel Edison board data packets with Wireshark",
+        "logo":"images/DILogo.png"
       }
     ],
     "skills":[
