@@ -106,7 +106,7 @@
       width: auto;
       position: fixed;
       top: 0;
-      right: 0;
+      left: 0;
    }
    #nav-wrap > a {
 	   width: 48px;
@@ -115,7 +115,7 @@
 		background-color: #CC5200;
 		position: relative;
       border: none;
-      float: right;
+      float: left;
 
       font: 0/0 a;
       text-shadow: none;
@@ -123,7 +123,8 @@
 
       position: relative;
       top: 0px;
-      right: 30px;
+      right: 0px;
+      /* was 30px */
    }
 
 	#nav-wrap > a:before,
@@ -161,7 +162,7 @@
 	   display: block;
       padding: 30px 20px 48px 20px;
       background: #1f2024;
-      margin: 0 30px;
+      margin: 0 0px;
       clear: both;
    }
 
@@ -358,6 +359,10 @@
       font: 14px/1.9em 'librebaskerville-regular', sans-serif;
       width: 90%;
    }
+
+   #resume .sectionAttribute img {display: none;}
+   #resume .sectionAttribute {display: inline;}
+   #resume .infoAttribute {margin-left: 0px;}
   
    /* header social links */
    header .social { font-size: 20px;}
