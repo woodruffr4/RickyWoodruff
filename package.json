@@ -5,7 +5,7 @@
   "homepage": "https://rickywoodruff.me",
   "dependencies": {
     "gh-pages": "^2.0.1",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
     "react-ga": "^2.7.0",
