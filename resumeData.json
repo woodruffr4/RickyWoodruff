@@ -61,6 +61,27 @@
     ],
     "work":[
       {
+        "company":"Citadel",
+        "title":"Software Engineering Intern",
+        "years":"Fall 2021",
+        "description": ["Future Intern"],
+        "logo":"images/CitadelLogo.png"
+      },
+      {
+        "company":"Stripe",
+        "title":"Software Engineering Intern",
+        "years":"Summer 2021",
+        "description": ["Future Intern"],
+        "logo":"images/StripeLogo.png"
+      },
+      {
+        "company":"Robinhood",
+        "title":"Backend Engineering Intern",
+        "years":"Winter 2021",
+        "description": ["Future Intern"],
+        "logo":"images/RobinhoodLogo.png"
+      },
+      {
         "company":"Lyft",
         "title":"Software Engineering Intern - Pay Product and Growth",
         "years":"Summer 2020",
